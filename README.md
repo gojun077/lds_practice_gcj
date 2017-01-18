@@ -21,9 +21,12 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
   + input() 또는 raw_input() (stdin)
   + open() 함수 (file)
 - GCJ 답안 제출 방법
+  + https://code.google.com/codejam/tutorials.html
 - 추후 발표자 순서 정하기
 
 ## 1주차 숙제
 - edX MIT Python 입문 수업 등록:
   https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
 - 6.00.1x 수업 Week 1 문제 풀기
+- 앞으로 풀고 싶은 문제를 GCJ 출제 문제 사이트에서 관람하기
+  + https://code.google.com/codejam/contests.html
