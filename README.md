@@ -30,3 +30,19 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
 - 6.00.1x 수업 Week 1 문제 풀기
 - 앞으로 풀고 싶은 문제를 GCJ 출제 문제 사이트에서 관람하기
   + https://code.google.com/codejam/contests.html
+
+## 2주차
+- string
+- if문
+- for, while 룹
+
+## 3주차
+- list 데이터구조
+
+## 4주차
+- dict 데이터구조
+- input() 매써드
+- GCJ 2010 Africa - Store Credit
+# 참조 자료
+**MIT 6.00.1x 프로그램밍 입문**
+https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
