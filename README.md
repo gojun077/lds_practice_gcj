@@ -43,6 +43,15 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
 - dict 데이터구조
 - input() 매써드
 - GCJ 2010 Africa - Store Credit
+
+## 5주차
+- 김기태 과장님 발표
+  - 2013 예선 *Fair and Square* 푸는 방법
+  - https://github.com/blackgeneral/blackgeneral
+- Global과 Local 변수와 함수로 List 변조
+
 # 참조 자료
-**MIT 6.00.1x 프로그램밍 입문**
+- **MIT 6.00.1x 프로그램밍 입문**
 https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
+- **Python Tutor 코드 가시화 도구**
+http://pythontutor.com/
