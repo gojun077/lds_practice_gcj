@@ -45,6 +45,7 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
 - GCJ 2010 Africa - Store Credit
 
 ## 5주차
+- `git`에 대한 간략한 소개
 - 김기태 과장님 발표
   - 2013 예선 *Fair and Square* 푸는 방법
   - https://github.com/blackgeneral/blackgeneral
