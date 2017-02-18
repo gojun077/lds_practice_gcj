@@ -1,5 +1,9 @@
-#!/usr/bin/python
-
+#!/usr/bin/python3
+"""
+2010 GCJ 아프리카 Qualification Round
+Store Credit
+https://code.google.com/codejam/contest/351101/dashboard#s=p0
+"""
 # storecredit.py
 
 test_case = int(input())  # read a line with a single integer
@@ -18,4 +22,3 @@ for i in range(test_case):
             if (credit - intpriceL[i]) in intpriceL[i+1:]:
                 print(intpriceL[i+1:].index(credit - intpriceL[i]) + count)
                 break
-
