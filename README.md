@@ -51,6 +51,12 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
   - https://github.com/blackgeneral/blackgeneral
 - Global과 Local 변수와 함수로 List 변조
 
+## 6주차
+- Python `doctest` 모듈 사용하기
+- Counting Sheep
+  - https://code.google.com/codejam/contest/6254486/dashboard
+- edX 6.00.1x hangman `isWordGuessed()`
+
 # 참조 자료
 - **MIT 6.00.1x 프로그램밍 입문**
 https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
