@@ -57,6 +57,9 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
   - https://code.google.com/codejam/contest/6254486/dashboard
 - edX 6.00.1x hangman `isWordGuessed()`
 
+## 7주차
+- 동적 프로그램밍 Dynamic Programming
+    - 6.00.1x Ch 5, Pt 10. genPrimes()
 # 참조 자료
 - **MIT 6.00.1x 프로그램밍 입문**
 https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
