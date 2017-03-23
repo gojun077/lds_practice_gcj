@@ -60,6 +60,18 @@ Linux Data Systems 회사내 스터디를 위한 repository입니다.
 ## 7주차
 - 동적 프로그램밍 Dynamic Programming
     - 6.00.1x Ch 5, Pt 10. genPrimes()
+- GCJ 2012 Speaking In Tongues (김기태  과장님)
+    - https://github.com/blackgeneral/blackgeneral/blob/blackgeneral-second-problem/Speaking_in_Tongues.py
+
+## 8주차
+- closures
+    - 6.00.1x Final Exam Problem 7
+- GCJ 2013 Round 1A bullseye
+    - https://code.google.com/codejam/contest/2418487/dashboard
+
+## 9주차
+- GCJ 2013 Round 1A bullseye 리뷰
+
 # 참조 자료
 - **MIT 6.00.1x 프로그램밍 입문**
 https://courses.edx.org/courses/course-v1:MITx+6.00.1x_11+1T2017
